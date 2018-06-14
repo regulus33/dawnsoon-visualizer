@@ -1,2 +1,6 @@
 # dawnsoon-visualizer
-Audio visualizers for Dawnsoon
+Audio visualizers for Dawnsoon, an [electronic music project](http://dawnsoon.net).
+
+All unity scripts. <3
+
+
