@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\AudioPeer.cs" />
      <Compile Include="Assets\_Scripts\Instantiate512cubes.cs" />
+     <Compile Include="Assets\_Scripts\ParamCube.cs" />
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
  </Reference>
